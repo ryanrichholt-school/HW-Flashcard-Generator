@@ -1,0 +1,15 @@
+{
+  "name": "hw-flashcard-generator",
+  "version": "1.0.0",
+  "description": "a set of constructors for flash cards",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@school.github.com:ryanrichholt-school/HW-Flashcard-Generator.git"
+  },
+  "author": "Ryan Richholt",
+  "license": "ISC"
+}
